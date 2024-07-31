@@ -1,3 +1,4 @@
 Belajar Git
 Belajar Node JS
 Belajar Tailwind CSS
+Belajar Laravel
